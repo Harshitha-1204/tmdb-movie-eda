@@ -80,6 +80,4 @@ jupyter notebook tmdb_eda_starter.ipynb
 
 ##  Author
 
-**Sindhura S Reddy**  
-
-[GitHub](https://github.com/sindhurasreddy-del)
+Harshitha HB
